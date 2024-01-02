@@ -75,8 +75,7 @@ void Student::displayDetails() const {
     cout << "Date of Birth: " << dateOfBirth << std::endl;
     cout << "Contact Number: " << contactNumber << std::endl;
 
-    // Додайте логіку для виведення решти даних
-    // Наприклад:
+    
     cout << "City: " << city << std::endl;
     cout << "Country: " << country << std::endl;
     cout << "Institution Name: " << institutionName << std::endl;
